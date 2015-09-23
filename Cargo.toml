@@ -1,0 +1,13 @@
+[package]
+name = "lodestone-envelope"
+version = "0.1.0"
+authors = ["dremonkey <a.deutmeyer@gmail.com>"]
+
+[dependencies.lodestone-bbox-polygon]
+path = "../lodestone-bbox-polygon"
+
+[dependencies.lodestone-extent]
+path = "../lodestone-extent"
+
+[dependencies.lodestone-polygon]
+path = "../lodestone-polygon"
